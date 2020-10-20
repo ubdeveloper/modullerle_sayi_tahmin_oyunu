@@ -1,2 +1,2 @@
-# modullerle_sayi_tahmin_oyunu
+# Modüllerle Sayı Tahmin Oyunu
  Python öğrenirken, yaptığım modüllerle oluşturulmuş basit bir oyun.
